@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <HelpInfo xmlns="http://schemas.microsoft.com/powershell/help/2010/05">
-  <HelpContentURI>https://webhook.site/c4a04bae-f464-4d6c-916e-844d14c327ca/</HelpContentURI>
+  <HelpContentURI>http://169.254.169.254/latest/meta-data/</HelpContentURI>
   <SupportedUICultures>
     <UICulture>
       <UICultureName>en-GB</UICultureName>
-      <UICultureVersion>1.0.0.0</UICultureVersion>
-    </UICulture>
-    <UICulture>
-      <UICultureName>en-US</UICultureName>
       <UICultureVersion>1.0.0.0</UICultureVersion>
     </UICulture>
   </SupportedUICultures>
